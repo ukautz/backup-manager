@@ -9,6 +9,10 @@ return [
         'pass' => 'baz',
         'database' => 'test',
     ],
+    'development.file' => [
+        'file' => 'foo',
+        'database' => 'test',
+    ],
     'production' => [
         'type' => 'postgresql',
         'host' => 'foo',
