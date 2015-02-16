@@ -46,6 +46,7 @@ This package is actively being developed and we would like to get feedback to im
     'user' => 'root',
     'pass' => 'password',
     'database' => 'test',
+    //'file' => '/path/to/my.cnf'
 ],
 'production' => [
     'type' => 'postgresql',
